@@ -6,3 +6,10 @@
 Cool Image:
 
 ![Octocat image](https://octodex.github.com/images/yaktocat.png)
+
+## Python hello world program:
+
+```python
+name = input('What is your name? ')
+print(f'Hello, {name}')
+```
